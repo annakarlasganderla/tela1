@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/annakarlasganderla/tela1.git/static/css/main.e40f6a44.chunk.css",
-    "main.js": "/annakarlasganderla/tela1.git/static/js/main.55d62705.chunk.js",
-    "main.js.map": "/annakarlasganderla/tela1.git/static/js/main.55d62705.chunk.js.map",
-    "runtime-main.js": "/annakarlasganderla/tela1.git/static/js/runtime-main.1fc4f9de.js",
-    "runtime-main.js.map": "/annakarlasganderla/tela1.git/static/js/runtime-main.1fc4f9de.js.map",
-    "static/js/2.fdfd65f4.chunk.js": "/annakarlasganderla/tela1.git/static/js/2.fdfd65f4.chunk.js",
-    "static/js/2.fdfd65f4.chunk.js.map": "/annakarlasganderla/tela1.git/static/js/2.fdfd65f4.chunk.js.map",
-    "index.html": "/annakarlasganderla/tela1.git/index.html",
-    "static/css/main.e40f6a44.chunk.css.map": "/annakarlasganderla/tela1.git/static/css/main.e40f6a44.chunk.css.map",
-    "static/js/2.fdfd65f4.chunk.js.LICENSE.txt": "/annakarlasganderla/tela1.git/static/js/2.fdfd65f4.chunk.js.LICENSE.txt"
+    "main.css": "/tela1/static/css/main.e40f6a44.chunk.css",
+    "main.js": "/tela1/static/js/main.55d62705.chunk.js",
+    "main.js.map": "/tela1/static/js/main.55d62705.chunk.js.map",
+    "runtime-main.js": "/tela1/static/js/runtime-main.4bf5485a.js",
+    "runtime-main.js.map": "/tela1/static/js/runtime-main.4bf5485a.js.map",
+    "static/js/2.fdfd65f4.chunk.js": "/tela1/static/js/2.fdfd65f4.chunk.js",
+    "static/js/2.fdfd65f4.chunk.js.map": "/tela1/static/js/2.fdfd65f4.chunk.js.map",
+    "index.html": "/tela1/index.html",
+    "static/css/main.e40f6a44.chunk.css.map": "/tela1/static/css/main.e40f6a44.chunk.css.map",
+    "static/js/2.fdfd65f4.chunk.js.LICENSE.txt": "/tela1/static/js/2.fdfd65f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fc4f9de.js",
+    "static/js/runtime-main.4bf5485a.js",
     "static/js/2.fdfd65f4.chunk.js",
     "static/css/main.e40f6a44.chunk.css",
     "static/js/main.55d62705.chunk.js"
