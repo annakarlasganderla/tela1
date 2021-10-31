@@ -1,6 +1,5 @@
 import * as React from "react";
-import ReactDOM from "react-dom";
-import Tela from "./Tela.css";
+import "./Tela.css";
 
 export default () => {
   return (
@@ -21,48 +20,48 @@ export default () => {
 
               <div className="item">
                 <div className="item--bar">
-                        <input type="checkbox" name="masculino" />
-                        <label>Masculino</label>
+                        <input type="checkbox" name="feminino-aberto" />
+                        <label>Feminino Aberto</label>
                     </div>
                     <i class="fas fa-chevron-down"></i>
               </div>
 
               <div className="item">
               <div className="item--bar">
-                    <input type="checkbox" name="masculino" />
-                    <label>Masculino</label>
+                    <input type="checkbox" name="feminino-fechado" />
+                    <label>Feminino Fechado</label>
                 </div>
                 <i class="fas fa-chevron-down"></i>
               </div>
 
               <div className="item">
               <div className="item--bar">
-                    <input type="checkbox" name="masculino" />
-                    <label>Masculino</label>
+                    <input type="checkbox" name="chinelo" />
+                    <label>Chinelo</label>
                 </div>
                 <i class="fas fa-chevron-down"></i>
               </div>
 
               <div className="item">
               <div className="item--bar">
-                    <input type="checkbox" name="masculino" />
-                    <label>Masculino</label>
+                    <input type="checkbox" name="sem-no" />
+                    <label>Sem nó</label>
                 </div>
                 <i class="fas fa-chevron-down"></i>
               </div>
 
               <div className="item">
               <div className="item--bar">
-                    <input type="checkbox" name="masculino" />
-                    <label>Masculino</label>
+                    <input type="checkbox" name="tenis-esportivo" />
+                    <label>Tênis Esportivo</label>
                 </div>
                 <i class="fas fa-chevron-down"></i>
               </div>
 
               <div className="item">
               <div className="item--bar">
-                    <input type="checkbox" name="masculino" />
-                    <label>Masculino</label>
+                    <input type="checkbox" name="infantil" />
+                    <label>Infantil</label>
                 </div>
                 <i class="fas fa-chevron-down"></i>
               </div>
@@ -71,7 +70,7 @@ export default () => {
         </div>
 
         <div className="buttons">
-          <button className="cancel">Cancelar</button>
+          <button className="cancel"><i class="far fa-times-circle"></i>Cancelar</button>
           <button className="conclude">Concluir</button>
         </div>
       </div>

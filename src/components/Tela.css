@@ -6,9 +6,8 @@
 
 .page {
     font-family: sans-serif;
-    width: 100vw;
-    height: 100vh;
-    background-color: #E5E5E5;
+    width: 100%;
+    background-color: #e5e5e5;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,15 +15,17 @@
 
 .modal--overlay {
     background: white;
-    width: 90%;
+    width: 60%;
+    margin: 30px;
     border-radius: 10px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .modal--box {
     width: 95%;
     margin: 20px auto;
     border-radius: 10px;
-    border: 2px solid #E5E5E5;
+    border: 2px solid #c5c5c5;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
@@ -38,10 +39,9 @@
     display: flex;
     align-items: center;
     margin: 10px auto;
-    padding: 0 10px;
     width: 96%;
     border-radius: 10px;
-    border: 2px solid #E5E5E5;
+    border: 2px solid #e5e5e5;
 }
 
 .modal--items form {
@@ -52,6 +52,47 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 15px;
-    padding: 25px 0;
+    padding: 15px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.item .item--bar {
+    margin-left: 30px;
+}
+
+.item label {
+    margin-left: 20px;
+}
+
+.item i {
+    color: #21A2B9;
+    margin-right: 30px;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cancel {
+    color: white;
+    background-color: #FF6A74;
+}
+
+.cancel i {
+    margin-right: 5px;
+}
+
+.conclude {
+    color: white;
+    background-color: #21A2B9;
+    padding: 10px 20px;
 }
