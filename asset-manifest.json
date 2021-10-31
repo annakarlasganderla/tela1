@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tela1/static/css/main.e40f6a44.chunk.css",
-    "main.js": "/tela1/static/js/main.55d62705.chunk.js",
-    "main.js.map": "/tela1/static/js/main.55d62705.chunk.js.map",
+    "main.css": "/tela1/static/css/main.3db5f16a.chunk.css",
+    "main.js": "/tela1/static/js/main.40ac96ed.chunk.js",
+    "main.js.map": "/tela1/static/js/main.40ac96ed.chunk.js.map",
     "runtime-main.js": "/tela1/static/js/runtime-main.4bf5485a.js",
     "runtime-main.js.map": "/tela1/static/js/runtime-main.4bf5485a.js.map",
-    "static/js/2.fdfd65f4.chunk.js": "/tela1/static/js/2.fdfd65f4.chunk.js",
-    "static/js/2.fdfd65f4.chunk.js.map": "/tela1/static/js/2.fdfd65f4.chunk.js.map",
+    "static/js/2.6e56c5a9.chunk.js": "/tela1/static/js/2.6e56c5a9.chunk.js",
+    "static/js/2.6e56c5a9.chunk.js.map": "/tela1/static/js/2.6e56c5a9.chunk.js.map",
     "index.html": "/tela1/index.html",
-    "static/css/main.e40f6a44.chunk.css.map": "/tela1/static/css/main.e40f6a44.chunk.css.map",
-    "static/js/2.fdfd65f4.chunk.js.LICENSE.txt": "/tela1/static/js/2.fdfd65f4.chunk.js.LICENSE.txt"
+    "static/css/main.3db5f16a.chunk.css.map": "/tela1/static/css/main.3db5f16a.chunk.css.map",
+    "static/js/2.6e56c5a9.chunk.js.LICENSE.txt": "/tela1/static/js/2.6e56c5a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4bf5485a.js",
-    "static/js/2.fdfd65f4.chunk.js",
-    "static/css/main.e40f6a44.chunk.css",
-    "static/js/main.55d62705.chunk.js"
+    "static/js/2.6e56c5a9.chunk.js",
+    "static/css/main.3db5f16a.chunk.css",
+    "static/js/main.40ac96ed.chunk.js"
   ]
 }
